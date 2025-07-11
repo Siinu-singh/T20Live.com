@@ -55,11 +55,10 @@ export function MatchCard({ match }) {
       </CardHeader>
       <CardContent className="p-6 flex-1">
         <div className="space-y-4">
-          {/* Team 1 Info */}
           <div className="flex items-center justify-between gap-4">
             <div className="flex items-center gap-3 flex-grow min-w-0">
               <div className="w-10 h-10 rounded-full overflow-hidden flex-shrink-0 relative">
-                <Image src={team1.logoUrl} alt={match.teams[0].name} layout="fill" objectFit="cover" data-ai-hint={team1.logoHint} className="w-full h-full object-cover"/>
+                <Image src={team1.logoUrl} alt={match.teams[0].name} fill data-ai-hint={team1.logoHint} className="object-cover"/>
               </div>
               <span className="font-semibold">{match.teams[0].name}</span>
             </div>
@@ -68,11 +67,10 @@ export function MatchCard({ match }) {
             </div>
           </div>
 
-          {/* Team 2 Info */}
           <div className="flex items-center justify-between gap-4">
             <div className="flex items-center gap-3 flex-grow min-w-0">
               <div className="w-10 h-10 rounded-full overflow-hidden flex-shrink-0 relative">
-                <Image src={team2.logoUrl} alt={match.teams[1].name} layout="fill" objectFit="cover" data-ai-hint={team2.logoHint} className="w-full h-full object-cover"/>
+                <Image src={team2.logoUrl} alt={match.teams[1].name} fill data-ai-hint={team2.logoHint} className="object-cover"/>
               </div>
               <span className="font-semibold">{match.teams[1].name}</span>
             </div>

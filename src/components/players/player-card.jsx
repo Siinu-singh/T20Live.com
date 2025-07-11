@@ -12,7 +12,7 @@ export function PlayerCard({ player }) {
           <Image
             src={player.imageUrl}
             alt={`Portrait of ${player.name}`}
-            layout="fill"
+            fill
             className="object-cover transition-transform duration-300"
             data-ai-hint={player.imageHint}
           />

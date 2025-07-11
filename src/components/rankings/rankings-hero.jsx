@@ -10,14 +10,13 @@ const PlayerImage = ({ src, alt, hint, className, rotation, delay }) => (
         animate={{ opacity: 1, y: 0, rotate: rotation }}
         transition={{ duration: 0.6, delay: delay, ease: "easeOut" }}
     >
-        <Image src={src} layout="fill" objectFit="cover" alt={alt} data-ai-hint={hint} className="group-hover:scale-105 transition-transform duration-300" />
+        <Image src={src} fill alt={alt} data-ai-hint={hint} className="object-cover group-hover:scale-105 transition-transform duration-300" />
     </motion.div>
 );
 
 export function RankingsHero({ title, subtitle, topText, icon }) {
   return (
     <section className="bg-card relative w-full h-[70vh] flex items-center justify-center overflow-hidden">
-        {/* Background collage */}
         <div className="absolute inset-0 z-0">
             <div className="container mx-auto h-full px-4 relative">
                 <PlayerImage
@@ -55,7 +54,6 @@ export function RankingsHero({ title, subtitle, topText, icon }) {
             </div>
         </div>
 
-      {/* Overlay and Text */}
       <div className="absolute inset-0 bg-card/70 dark:bg-card/80 z-10" />
       <div className="relative z-20 text-center text-foreground p-4">
         <motion.div

@@ -54,7 +54,7 @@
     "venue": "Sharjah Cricket Stadium",
     "matchTitle": "League Match"
   },
-    {
+  {
     "id": "14",
     "status": "Live",
     "statusText": "Titans are 55/2 after 6 overs.",
@@ -431,5 +431,113 @@
     ],
     "venue": "Sharjah Cricket Stadium",
     "matchTitle": "League Match"
+  },
+  {
+    "id": "17",
+    "status": "Upcoming",
+    "statusText": "Match starts in 2 hours.",
+    "teams": [
+      {
+        "name": "Team A",
+        "shortName": "TA",
+        "logoUrl": "https://placehold.co/40x40.png",
+        "logoHint": "team logo",
+        "score": 0,
+        "wickets": 0,
+        "overs": 0
+      },
+      {
+        "name": "Team B",
+        "shortName": "TB",
+        "logoUrl": "https://placehold.co/40x40.png",
+        "logoHint": "team logo",
+        "score": 0,
+        "wickets": 0,
+        "overs": 0
+      }
+    ],
+    "venue": "Generic Cricket Ground",
+    "matchTitle": "Practice Match"
+  },
+  {
+    "id": "18",
+    "status": "Finished",
+    "statusText": "Team C won by 50 runs.",
+    "teams": [
+      {
+        "name": "Team C",
+        "shortName": "TC",
+        "logoUrl": "https://placehold.co/40x40.png",
+        "logoHint": "team logo",
+        "score": 205,
+        "wickets": 4,
+        "overs": 20
+      },
+      {
+        "name": "Team D",
+        "shortName": "TD",
+        "logoUrl": "https://placehold.co/40x40.png",
+        "logoHint": "team logo",
+        "score": 155,
+        "wickets": 9,
+        "overs": 20
+      }
+    ],
+    "venue": "Another Cricket Ground",
+    "matchTitle": "Friendly Match"
+  },
+  {
+    "id": "19",
+    "status": "Live",
+    "statusText": "Team F needs 15 runs to win.",
+    "teams": [
+      {
+        "name": "Team E",
+        "shortName": "TE",
+        "logoUrl": "https://placehold.co/40x40.png",
+        "logoHint": "team logo",
+        "score": 180,
+        "wickets": 8,
+        "overs": 20
+      },
+      {
+        "name": "Team F",
+        "shortName": "TF",
+        "logoUrl": "https://placehold.co/40x40.png",
+        "logoHint": "team logo",
+        "score": 166,
+        "wickets": 5,
+        "overs": 19
+      }
+    ],
+    "venue": "Test Cricket Stadium",
+    "matchTitle": "Exhibition Match"
+  },
+  {
+    "id": "20",
+    "status": "Upcoming",
+    "statusText": "Starts tomorrow 8:00 AM",
+    "teams": [
+      {
+        "name": "Team G",
+        "shortName": "TG",
+        "logoUrl": "https://placehold.co/40x40.png",
+        "logoHint": "team logo",
+        "score": 0,
+        "wickets": 0,
+        "overs": 0
+      },
+      {
+        "name": "Team H",
+        "shortName": "TH",
+        "logoUrl": "https://placehold.co/40x40.png",
+        "logoHint": "team logo",
+        "score": 0,
+        "wickets": 0,
+        "overs": 0
+      }
+    ],
+    "venue": "World Class Stadium",
+    "matchTitle": "Charity Match"
   }
 ]
