@@ -1,0 +1,435 @@
+
+[
+    {
+        "id": "1",
+        "status": "Live",
+        "statusText": "Vipers need 24 runs in 12 balls.",
+        "venue": "Dubai International Cricket Stadium",
+        "matchTitle": "Qualifier 1",
+        "teams": [
+            {
+                "name": "Desert Vipers",
+                "shortName": "DV",
+                "logoUrl": "https://images.unsplash.com/photo-1703636998491-4f0cffcc6fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aXBlciUyMHNuYWtlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "viper snake",
+                "score": 156,
+                "wickets": 4,
+                "overs": 18
+            },
+            {
+                "name": "Gulf Giants",
+                "shortName": "GG",
+                "logoUrl": "https://images.unsplash.com/photo-1723358460708-0b315642c289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcmlja2V0JTIwZ2lhbnR8ZW58MHx8fHwxNzUyMDQzODc3fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "cricket giant",
+                "score": 179,
+                "wickets": 7,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "status": "Live",
+        "statusText": "Capitals need 112 runs in 60 balls.",
+        "venue": "Sharjah Cricket Stadium",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "Dubai Capitals",
+                "shortName": "DC",
+                "logoUrl": "https://images.unsplash.com/photo-1606138369267-ff17948d119c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkdWJhaSUyMHNreWxpbmV8ZW58MHx8fHwxNzUyMDQzODc2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "dubai skyline",
+                "score": 68,
+                "wickets": 2,
+                "overs": 10
+            },
+            {
+                "name": "Sharjah Warriors",
+                "shortName": "SW",
+                "logoUrl": "https://images.unsplash.com/photo-1661076069843-6a36aeb003cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXJhYmlhbiUyMHdhcnJpb3J8ZW58MHx8fHwxNzUyMDQzODc3fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "arabian warrior",
+                "score": 179,
+                "wickets": 5,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "status": "Live",
+        "statusText": "Titans are 55/2 after 6 overs.",
+        "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "Galle Titans",
+                "shortName": "GT",
+                "logoUrl": "https://images.unsplash.com/photo-1657404371353-4f55f138674b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlayUyMHRpdGFufGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "greek titan",
+                "score": 55,
+                "wickets": 2,
+                "overs": 6
+            },
+            {
+                "name": "MI Emirates",
+                "shortName": "MIE",
+                "logoUrl": "https://images.unsplash.com/photo-1688676717275-5d8014660af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbWlyYXRlcyUyMGVhZ2xlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "emirates eagle",
+                "score": 0,
+                "wickets": 0,
+                "overs": 0
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "status": "Upcoming",
+        "statusText": "Match starts at 7:30 PM",
+        "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "Dubai Capitals",
+                "shortName": "DC",
+                "logoUrl": "https://images.unsplash.com/photo-1606138369267-ff17948d119c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkdWJhaSUyMHNreWxpbmV8ZW58MHx8fHwxNzUyMDQzODc2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "dubai skyline",
+                "score": 0,
+                "wickets": 0,
+                "overs": 0
+            },
+            {
+                "name": "Sharjah Warriors",
+                "shortName": "SW",
+                "logoUrl": "https://images.unsplash.com/photo-1661076069843-6a36aeb003cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXJhYmlhbiUyMHdhcnJpb3J8ZW58MHx8fHwxNzUyMDQzODc3fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "arabian warrior",
+                "score": 0,
+                "wickets": 0,
+                "overs": 0
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "status": "Upcoming",
+        "statusText": "Match starts tomorrow at 3:30 PM",
+        "venue": "Dubai International Cricket Stadium",
+        "matchTitle": "Qualifier 2",
+        "teams": [
+            {
+                "name": "Gulf Giants",
+                "shortName": "GG",
+                "logoUrl": "https://images.unsplash.com/photo-1723358460708-0b315642c289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcmlja2V0JTIwZ2lhbnR8ZW58MHx8fHwxNzUyMDQzODc3fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "cricket giant",
+                "score": 0,
+                "wickets": 0,
+                "overs": 0
+            },
+            {
+                "name": "Desert Vipers",
+                "shortName": "DV",
+                "logoUrl": "https://images.unsplash.com/photo-1703636998491-4f0cffcc6fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aXBlciUyMHNuYWtlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "viper snake",
+                "score": 0,
+                "wickets": 0,
+                "overs": 0
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "status": "Upcoming",
+        "statusText": "Match starts in 3 days",
+        "venue": "Sharjah Cricket Stadium",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "MI Emirates",
+                "shortName": "MIE",
+                "logoUrl": "https://images.unsplash.com/photo-1688676717275-5d8014660af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbWlyYXRlcyUyMGVhZ2xlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "emirates eagle",
+                "score": 0,
+                "wickets": 0,
+                "overs": 0
+            },
+            {
+                "name": "Sharjah Warriors",
+                "shortName": "SW",
+                "logoUrl": "https://images.unsplash.com/photo-1661076069843-6a36aeb003cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXJhYmlhbiUyMHdhcnJpb3J8ZW58MHx8fHwxNzUyMDQzODc3fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "arabian warrior",
+                "score": 0,
+                "wickets": 0,
+                "overs": 0
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "status": "Finished",
+        "statusText": "Titans won by 7 wickets.",
+        "venue": "Sharjah Cricket Stadium",
+        "matchTitle": "Eliminator",
+        "teams": [
+            {
+                "name": "MI Emirates",
+                "shortName": "MIE",
+                "logoUrl": "https://images.unsplash.com/photo-1688676717275-5d8014660af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbWlyYXRlcyUyMGVhZ2xlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "emirates eagle",
+                "score": 164,
+                "wickets": 8,
+                "overs": 20
+            },
+            {
+                "name": "Galle Titans",
+                "shortName": "GT",
+                "logoUrl": "https://images.unsplash.com/photo-1657404371353-4f55f138674b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlayUyMHRpdGFufGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "greek titan",
+                "score": 165,
+                "wickets": 3,
+                "overs": 19.1
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "status": "Finished",
+        "statusText": "Warriors won by 5 wickets.",
+        "venue": "Sharjah Cricket Stadium",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "Sharjah Warriors",
+                "shortName": "SW",
+                "logoUrl": "https://images.unsplash.com/photo-1661076069843-6a36aeb003cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXJhYmlhbiUyMHdhcnJpb3J8ZW58MHx8fHwxNzUyMDQzODc3fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "arabian warrior",
+                "score": 154,
+                "wickets": 5,
+                "overs": 19.1
+            },
+            {
+                "name": "Desert Vipers",
+                "shortName": "DV",
+                "logoUrl": "https://images.unsplash.com/photo-1692756660615-9b8d73c1ea92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx2aXBlciUyMHNuYWtlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "viper snake",
+                "score": 149,
+                "wickets": 9,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "status": "Finished",
+        "statusText": "Giants won by 25 runs.",
+        "venue": "Dubai International Cricket Stadium",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "Gulf Giants",
+                "shortName": "GG",
+                "logoUrl": "https://images.unsplash.com/photo-1698999052069-2447dad79189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcmlja2V0JTIwZ2lhbnR8ZW58MHx8fHwxNzUyMDQzODc3fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "cricket giant",
+                "score": 195,
+                "wickets": 5,
+                "overs": 20
+            },
+            {
+                "name": "MI Emirates",
+                "shortName": "MIE",
+                "logoUrl": "https://images.unsplash.com/photo-1707306306841-69113c7d391c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlbWlyYXRlcyUyMGVhZ2xlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "emirates eagle",
+                "score": 170,
+                "wickets": 7,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "status": "Finished",
+        "statusText": "Capitals won by 8 wickets.",
+        "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "Dubai Capitals",
+                "shortName": "DC",
+                "logoUrl": "https://images.unsplash.com/flagged/photo-1559717865-a99cac1c95d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkdWJhaSUyMHNreWxpbmV8ZW58MHx8fHwxNzUyMDQzODc2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "dubai skyline",
+                "score": 135,
+                "wickets": 2,
+                "overs": 15.4
+            },
+            {
+                "name": "Galle Titans",
+                "shortName": "GT",
+                "logoUrl": "https://images.unsplash.com/photo-1657831127175-00d2dee7cf6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxncmVlayUyMHRpdGFufGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "greek titan",
+                "score": 133,
+                "wickets": 8,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "status": "Finished",
+        "statusText": "Vipers won in a Super Over.",
+        "venue": "Sharjah Cricket Stadium",
+        "matchTitle": "Thriller Match",
+        "teams": [
+            {
+                "name": "Desert Vipers",
+                "shortName": "DV",
+                "logoUrl": "https://images.unsplash.com/photo-1509062549095-c3513d7df10a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2aXBlciUyMHNuYWtlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "viper snake",
+                "score": 188,
+                "wickets": 6,
+                "overs": 20
+            },
+            {
+                "name": "MI Emirates",
+                "shortName": "MIE",
+                "logoUrl": "https://images.unsplash.com/photo-1688676717344-143d1ea4b351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxlbWlyYXRlcyUyMGVhZ2xlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "emirates eagle",
+                "score": 188,
+                "wickets": 8,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "status": "Finished",
+        "statusText": "Giants won by 1 run.",
+        "venue": "Dubai International Cricket Stadium",
+        "matchTitle": "Final",
+        "teams": [
+            {
+                "name": "Gulf Giants",
+                "shortName": "GG",
+                "logoUrl": "https://images.unsplash.com/photo-1670572808600-b2700b20292c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjcmlja2V0JTIwZ2lhbnR8ZW58MHx8fHwxNzUyMDQzODc3fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "cricket giant",
+                "score": 201,
+                "wickets": 6,
+                "overs": 20
+            },
+            {
+                "name": "Sharjah Warriors",
+                "shortName": "SW",
+                "logoUrl": "https://images.unsplash.com/photo-1727160788812-f8f5b09bbd9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcmFiaWFuJTIwd2FycmlvcnxlbnwwfHx8fDE3NTIwNDM4Nzd8MA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "arabian warrior",
+                "score": 200,
+                "wickets": 7,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "status": "Finished",
+        "statusText": "Capitals won by 30 runs.",
+        "venue": "Dubai International Cricket Stadium",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "Dubai Capitals",
+                "shortName": "DC",
+                "logoUrl": "https://images.unsplash.com/photo-1606138369267-ff17948d119c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkdWJhaSUyMHNreWxpbmV8ZW58MHx8fHwxNzUyMDQzODc2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "dubai skyline",
+                "score": 185,
+                "wickets": 5,
+                "overs": 20
+            },
+            {
+                "name": "Desert Vipers",
+                "shortName": "DV",
+                "logoUrl": "https://images.unsplash.com/photo-1509062549095-c3513d7df10a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2aXBlciUyMHNuYWtlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "viper snake",
+                "score": 155,
+                "wickets": 9,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "status": "Finished",
+        "statusText": "Titans won by 4 wickets.",
+        "venue": "Sharjah Cricket Stadium",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "Galle Titans",
+                "shortName": "GT",
+                "logoUrl": "https://images.unsplash.com/photo-1717518214067-05fb6a7fb85c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmVlayUyMHRpdGFufGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "greek titan",
+                "score": 171,
+                "wickets": 6,
+                "overs": 18.2
+            },
+            {
+                "name": "Sharjah Warriors",
+                "shortName": "SW",
+                "logoUrl": "https://images.unsplash.com/photo-1727160788895-263da7bc41df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhcmFiaWFuJTIwd2FycmlvcnxlbnwwfHx8fDE3NTIwNDM4Nzd8MA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "arabian warrior",
+                "score": 170,
+                "wickets": 7,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "status": "Finished",
+        "statusText": "MI Emirates won by 2 wickets.",
+        "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "MI Emirates",
+                "shortName": "MIE",
+                "logoUrl": "https://images.unsplash.com/photo-1707306306575-6754196b9b95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbWlyYXRlcyUyMGVhZ2xlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "emirates eagle",
+                "score": 143,
+                "wickets": 8,
+                "overs": 19.4
+            },
+            {
+                "name": "Dubai Capitals",
+                "shortName": "DC",
+                "logoUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkdWJhaSUyMHNreWxpbmV8ZW58MHx8fHwxNzUyMDQzODc2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "dubai skyline",
+                "score": 142,
+                "wickets": 7,
+                "overs": 20
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "status": "Finished",
+        "statusText": "Vipers won by 6 wickets.",
+        "venue": "Sharjah Cricket Stadium",
+        "matchTitle": "League Match",
+        "teams": [
+            {
+                "name": "Desert Vipers",
+                "shortName": "DV",
+                "logoUrl": "https://images.unsplash.com/photo-1661349247818-d98bdf7c4a9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2aXBlciUyMHNuYWtlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "viper snake",
+                "score": 166,
+                "wickets": 4,
+                "overs": 18
+            },
+            {
+                "name": "Galle Titans",
+                "shortName": "GT",
+                "logoUrl": "https://images.unsplash.com/photo-1739219062425-d596d6099289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxncmVlayUyMHRpdGFufGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+                "logoHint": "greek titan",
+                "score": 162,
+                "wickets": 8,
+                "overs": 20
+            }
+        ]
+    }
+]

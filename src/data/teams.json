@@ -1,0 +1,9 @@
+
+[
+  {"id": "DV", "name": "Desert Vipers", "logoUrl": "https://images.unsplash.com/photo-1661349247818-d98bdf7c4a9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2aXBlciUyMHNuYWtlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib=rb-4.1.0&q=80&w=1080", "logoHint": "viper snake"},
+  {"id": "GG", "name": "Gulf Giants", "logoUrl": "https://images.unsplash.com/photo-1670572808600-b2700b20292c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjcmlja2V0JTIwZ2lhbnR8ZW58MHx8fHwxNzUyMDQzODc3fDA&ixlib=rb-4.1.0&q=80&w=1080", "logoHint": "cricket giant"},
+  {"id": "MIE", "name": "MI Emirates", "logoUrl": "https://images.unsplash.com/photo-1707306306575-6754196b9b95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbWlyYXRlcyUyMGVhZ2xlfGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib=rb-4.1.0&q=80&w=1080", "logoHint": "emirates eagle"},
+  {"id": "GT", "name": "Galle Titans", "logoUrl": "https://images.unsplash.com/photo-1739219062425-d596d6099289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxncmVlayUyMHRpdGFufGVufDB8fHx8MTc1MjA0Mzg3N3ww&ixlib=rb-4.1.0&q=80&w=1080", "logoHint": "greek titan"},
+  {"id": "DC", "name": "Dubai Capitals", "logoUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkdWJhaSUyMHNreWxpbmV8ZW58MHx8fHwxNzUyMDQzODc2fDA&ixlib=rb-4.1.0&q=80&w=1080", "logoHint": "dubai skyline"},
+  {"id": "SW", "name": "Sharjah Warriors", "logoUrl": "https://images.unsplash.com/photo-1727160788895-263da7bc41df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhcmFiaWFuJTIwd2FycmlvcnxlbnwwfHx8fDE3NTIwNDM4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080", "logoHint": "arabian warrior"}
+]

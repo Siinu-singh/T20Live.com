@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "name": "Suryakumar Yadav",
+    "team": "India",
+    "role": "Batsman",
+    "imageUrl": "https://images.unsplash.com/photo-1659081431824-77f72421f32d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjcmlja2V0JTIwcGxheWVyJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzUxODgyMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket player portrait"
+  },
+  {
+    "id": 2,
+    "name": "Adil Rashid",
+    "team": "England",
+    "role": "Bowler",
+    "imageUrl": "https://images.unsplash.com/photo-1685541000777-8d0995d38909?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JpY2tldCUyMHBsYXllciUyMGludGVuc2V8ZW58MHx8fHwxNzUxOTY2NjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket player intense"
+  },
+  {
+    "id": 3,
+    "name": "Shakib Al Hasan",
+    "team": "Bangladesh",
+    "role": "All-Rounder",
+    "imageUrl": "https://images.unsplash.com/photo-1709134800927-6c0ba3c65919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjcmlja2V0JTIwcGxheWVyJTIwYWN0aW9ufGVufDB8fHx8MTc1MTk2NjYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket player action"
+  },
+  {
+    "id": 4,
+    "name": "Virat Kohli",
+    "team": "India",
+    "role": "Batsman",
+    "imageUrl": "https://images.unsplash.com/photo-1685541000562-a00dcf472343?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjcmlja2V0JTIwY2FwdGFpbiUyMHRoaW5raW5nfGVufDB8fHx8MTc1MTg4MjM1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket captain thinking"
+  },
+  {
+    "id": 5,
+    "name": "Rashid Khan",
+    "team": "Afghanistan",
+    "role": "Bowler",
+    "imageUrl": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcmlja2V0fGVufDB8fHx8MTc1MTg4NTkwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket player celebrating"
+  },
+  {
+    "id": 6,
+    "name": "Hardik Pandya",
+    "team": "India",
+    "role": "All-Rounder",
+    "imageUrl": "https://images.unsplash.com/photo-1624897174291-1bd715e371d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0fGVufDB8fHx8MTc1MTg4NTkwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket player action"
+  },
+  {
+    "id": 7,
+    "name": "Jos Buttler",
+    "team": "England",
+    "role": "Batsman",
+    "imageUrl": "https://placehold.co/400x500.png",
+    "imageHint": "cricket player hitting"
+  },
+  {
+    "id": 8,
+    "name": "Jasprit Bumrah",
+    "team": "India",
+    "role": "Bowler",
+    "imageUrl": "https://placehold.co/400x500.png",
+    "imageHint": "cricket bowler action"
+  },
+  {
+    "id": 9,
+    "name": "Glenn Maxwell",
+    "team": "Australia",
+    "role": "All-Rounder",
+    "imageUrl": "https://placehold.co/400x500.png",
+    "imageHint": "cricket player diving"
+  }
+]

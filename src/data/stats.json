@@ -1,0 +1,17 @@
+[
+  {
+    "matchId": "1",
+    "topScorer": { "name": "James Vince", "runs": 65 },
+    "topBowler": { "name": "Chris Jordan", "wickets": 3 }
+  },
+  {
+    "matchId": "2",
+    "topScorer": { "name": "Kusal Perera", "runs": 88 },
+    "topBowler": { "name": "Wanindu Hasaranga", "wickets": 4 }
+  },
+  {
+    "matchId": "3",
+    "topScorer": { "name": "N/A", "runs": 0 },
+    "topBowler": { "name": "N/A", "wickets": 0 }
+  }
+]

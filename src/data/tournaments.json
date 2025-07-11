@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "ICC T20 World Cup",
+    "logoUrl": "https://images.unsplash.com/photo-1580831800257-f83135932664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmlja2V0JTIwdHJvcGh5JTIwY2VsZWJyYXRpb258ZW58MHx8fHwxNzUxODg2Nzg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket trophy celebration",
+    "region": "International",
+    "description": "The premier international championship of T20 cricket."
+  },
+  {
+    "id": 2,
+    "name": "Indian Premier League (IPL)",
+    "logoUrl": "https://images.unsplash.com/photo-1652814973415-c69d014c27df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0JTIwc3RhZGl1bSUyMGxpZ2h0c3xlbnwwfHx8fDE3NTE4ODIzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "stadium lights",
+    "region": "India",
+    "description": "The biggest and most popular domestic T20 league in the world."
+  },
+  {
+    "id": 3,
+    "name": "Big Bash League (BBL)",
+    "logoUrl": "https://images.unsplash.com/photo-1595207732481-22cccd3480fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8Y3JpY2tldHxlbnwwfHx8fDE3NTE4ODU5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket stadium australia",
+    "region": "Australia",
+    "description": "Australia's professional franchise T20 cricket league."
+  },
+  {
+    "id": 4,
+    "name": "Pakistan Super League (PSL)",
+    "logoUrl": "https://images.unsplash.com/photo-1656678636406-60770fb73071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjcmlja2V0JTIwZmFucyUyMGNyb3dkfGVufDB8fHx8MTc1MTg4MjM1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket fans crowd",
+    "region": "Pakistan",
+    "description": "A major professional T20 cricket league in Pakistan."
+  },
+  {
+    "id": 5,
+    "name": "Caribbean Premier League (CPL)",
+    "logoUrl": "https://images.unsplash.com/photo-1709233955602-5a58b2f4c5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjcmlja2V0JTIwY2VsZWJyYXRpb24lMjBzdXJwcmlzZXxlbnwwfHx8fDE3NTE4ODUyNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "caribbean beach cricket",
+    "region": "Caribbean",
+    "description": "An annual T20 cricket tournament held in the Caribbean."
+  },
+  {
+    "id": 6,
+    "name": "The Hundred",
+    "logoUrl": "https://images.unsplash.com/photo-1743342398244-c8c5a307d290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0JTIwYmFsbCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzUxODgyMzUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket ball technology",
+    "region": "England & Wales",
+    "description": "A professional 100-ball cricket tournament involving eight city-based teams."
+  }
+]

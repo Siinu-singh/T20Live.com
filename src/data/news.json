@@ -1,0 +1,135 @@
+
+[
+    {
+      "id": 1,
+      "category": "T20 World Cup",
+      "title": "Underdogs Triumph in a Last-Ball Thriller",
+      "imageUrl": "https://images.unsplash.com/photo-1580831800257-f83135932664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmlja2V0JTIwdHJvcGh5JTIwY2VsZWJyYXRpb258ZW58MHx8fHwxNzUxODg2Nzg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket trophy celebration",
+      "author": "Jane Doe",
+      "authorImageUrl": "https://placehold.co/40x40.png",
+      "date": "Oct 26, 2023",
+      "readTime": "6 min read"
+    },
+    {
+      "id": 2,
+      "category": "Analysis",
+      "title": "The Evolution of Power-Hitting in the Modern Game",
+      "imageUrl": "https://images.unsplash.com/photo-1706102005258-aa606694526a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcmlja2V0JTIwYmF0c21hbiUyMGhpdHRpbmd8ZW58MHx8fHwxNzUxODg1MjQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket batsman hitting",
+      "author": "John Smith",
+      "authorImageUrl": "https://placehold.co/40x40.png",
+      "date": "Oct 25, 2023",
+      "readTime": "8 min read"
+    },
+    {
+      "id": 3,
+      "category": "Team News",
+      "title": "Star All-Rounder Sidelined with Unexpected Injury",
+      "imageUrl": "https://images.unsplash.com/photo-1685541000847-f764510e2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmlja2V0JTIwcGxheWVyJTIwaW5qdXJ5fGVufDB8fHx8MTc1MTg4NTIzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket player injury",
+      "author": "Alex Johnson",
+      "authorImageUrl": "https://placehold.co/40x40.png",
+      "date": "Oct 24, 2023",
+      "readTime": "4 min read"
+    },
+    {
+        "id": 4,
+        "category": "Technology",
+        "title": "How AI is Revolutionizing Cricket Broadcasting",
+        "imageUrl": "https://images.unsplash.com/photo-1743342398244-c8c5a307d290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0JTIwYmFsbCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzUxODgyMzUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageHint": "cricket ball technology",
+        "author": "Emily White",
+        "authorImageUrl": "https://placehold.co/40x40.png",
+        "date": "Oct 23, 2023",
+        "readTime": "7 min read"
+    },
+    {
+        "id": 5,
+        "category": "Fan Culture",
+        "title": "The Most Electric Stadium Atmospheres in T20 Cricket",
+        "imageUrl": "https://images.unsplash.com/photo-1583072728920-4ed8c72cbc01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjcmlja2V0JTIwZmFucyUyMGNoZWVyaW5nfGVufDB8fHx8MTc1MTg4NTY4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageHint": "cricket fans cheering",
+        "author": "Michael Brown",
+        "authorImageUrl": "https://placehold.co/40x40.png",
+        "date": "Oct 22, 2023",
+        "readTime": "5 min read"
+    },
+    {
+        "id": 6,
+        "category": "History",
+        "title": "A Look Back at the Inaugural T20 World Cup",
+        "imageUrl": "https://images.unsplash.com/photo-1685541001104-91fe7ae1d8e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwY3JpY2tldCUyMG1hdGNofGVufDB8fHx8MTc1MTg4MjM1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageHint": "vintage cricket match",
+        "author": "Sarah Green",
+        "authorImageUrl": "https://placehold.co/40x40.png",
+        "date": "Oct 21, 2023",
+        "readTime": "9 min read"
+    },
+    {
+      "id": 7,
+      "category": "Interview",
+      "title": "Exclusive: Captain Cool on Strategy and Leadership",
+      "imageUrl": "https://images.unsplash.com/photo-1703182612564-dd42bba0e1bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcmlja2V0JTIwY2FwdGFpbiUyMHRoaW5raW5nfGVufDB8fHx8MTc1MTg4MjM1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket captain thinking",
+      "author": "David Miller",
+      "authorImageUrl": "https://placehold.co/40x40.png",
+      "date": "Oct 20, 2023",
+      "readTime": "10 min read"
+    },
+    {
+      "id": 8,
+      "category": "Records",
+      "title": "Fastest Fifty: A New T20 Record Set",
+      "imageUrl": "https://images.unsplash.com/photo-1654267837327-203c8bfb5f25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcmlja2V0JTIwc2NvcmVib2FyZHxlbnwwfHx8fDE3NTE4ODIzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket scoreboard",
+      "author": "Chris Lynn",
+      "authorImageUrl": "https://placehold.co/40x40.png",
+      "date": "Oct 19, 2023",
+      "readTime": "3 min read"
+    },
+    {
+      "id": 9,
+      "category": "Pitch Report",
+      "title": "Decoding the Dubai Pitch: What to Expect in the Final",
+      "imageUrl": "https://images.unsplash.com/photo-1595207732481-22cccd3480fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8Y3JpY2tldHxlbnwwfHx8fDE3NTE4ODU5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket stadium",
+      "author": "Sunil Gavaskar",
+      "authorImageUrl": "https://placehold.co/40x40.png",
+      "date": "Oct 18, 2023",
+      "readTime": "5 min read"
+    },
+    {
+      "id": 10,
+      "category": "Player Spotlight",
+      "title": "The Unsung Heroes: A Tribute to Domestic Cricket Legends",
+      "imageUrl": "https://images.unsplash.com/photo-1624897174291-1bd715e371d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0fGVufDB8fHx8MTc1MTg4NTkwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket domestic league",
+      "author": "Anand Vasu",
+      "authorImageUrl": "https://placehold.co/40x40.png",
+      "date": "Oct 17, 2023",
+      "readTime": "6 min read"
+    },
+    {
+      "id": 11,
+      "category": "Health & Fitness",
+      "title": "Mental Conditioning: The Key to Success in High-Pressure T20s",
+      "imageUrl": "https://images.unsplash.com/photo-1685541000777-8d0995d38909?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JpY2tldCUyMHBsYXllciUyMGludGVuc2V8ZW58MHx8fHwxNzUxOTY2NjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket player focused",
+      "author": "Dr. Paddy Upton",
+      "authorImageUrl": "https://placehold.co/40x40.png",
+      "date": "Oct 16, 2023",
+      "readTime": "8 min read"
+    },
+    {
+      "id": 12,
+      "category": "Business of Cricket",
+      "title": "The Multi-Million Dollar World of T20 Franchise Leagues",
+      "imageUrl": "https://images.unsplash.com/photo-1652814973415-c69d014c27df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0JTIwc3RhZGl1bSUyMGxpZ2h0c3xlbnwwfHx8fDE3NTE4ODIzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket stadium lights",
+      "author": "Harsha Bhogle",
+      "authorImageUrl": "https://placehold.co/40x40.png",
+      "date": "Oct 15, 2023",
+      "readTime": "7 min read"
+    }
+]

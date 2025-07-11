@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "status": "Live",
+    "statusText": "Vipers need 24 runs in 12 balls.",
+    "teams": [
+      { "name": "Desert Vipers", "shortName": "DV", "logoUrl": "https://placehold.co/40x40.png", "logoHint": "viper snake", "score": 156, "wickets": 4, "overs": 18 },
+      { "name": "Gulf Giants", "shortName": "GG", "logoUrl": "https://placehold.co/40x40.png", "logoHint": "cricket giant", "score": 179, "wickets": 7, "overs": 20 }
+    ],
+    "venue": "Dubai International Cricket Stadium",
+    "matchTitle": "Qualifier 1"
+  },
+  {
+    "id": "2",
+    "status": "Finished",
+    "statusText": "Titans won by 7 wickets.",
+    "teams": [
+      { "name": "MI Emirates", "shortName": "MIE", "logoUrl": "https://placehold.co/40x40.png", "logoHint": "emirates eagle", "score": 164, "wickets": 8, "overs": 20 },
+      { "name": "Galle Titans", "shortName": "GT", "logoUrl": "https://placehold.co/40x40.png", "logoHint": "greek titan", "score": 165, "wickets": 3, "overs": 19.1 }
+    ],
+    "venue": "Sharjah Cricket Stadium",
+    "matchTitle": "Eliminator"
+  },
+  {
+    "id": "3",
+    "status": "Upcoming",
+    "statusText": "Match starts at 7:30 PM",
+    "teams": [
+      { "name": "Dubai Capitals", "shortName": "DC", "logoUrl": "https://placehold.co/40x40.png", "logoHint": "dubai skyline", "score": 0, "wickets": 0, "overs": 0 },
+      { "name": "Sharjah Warriors", "shortName": "SW", "logoUrl": "https://placehold.co/40x40.png", "logoHint": "arabian warrior", "score": 0, "wickets": 0, "overs": 0 }
+    ],
+    "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+    "matchTitle": "League Match"
+  }
+]
