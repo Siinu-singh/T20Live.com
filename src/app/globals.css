@@ -59,7 +59,7 @@
 }
 
 @layer components {
-  .t20-logo-text {
+  .t20-logo-text-path {
     fill: hsl(var(--foreground));
   }
 }

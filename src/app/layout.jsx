@@ -38,6 +38,9 @@ export const metadata = {
   alternates: {
     canonical: '/',
   },
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export const viewport = {
@@ -60,7 +63,7 @@ export default function RootLayout({ children }) {
         >
           <div className="relative flex min-h-screen flex-col bg-background">
             <Header />
-            <main className="flex-1">{children}</main>
+            <main className="flex-1 px-6 md:px-12 lg:px-16">{children}</main>
             <Footer />
           </div>
           <Toaster />

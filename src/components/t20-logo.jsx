@@ -25,14 +25,14 @@ export function T20Logo({ className }) {
           d="M108.3,0.6l-33,26.1L27.6,4.6L44,36.5L0,48.2l42.6,16.2L28,103.4l35.6-26.1l11.7,35.8l13.1-34.9l36.5,23.1L119,69.5l37.1,20.5l-21.3-37.1l39.5-12.7L136.2,52l32.2-30.8l-40.2,8.8L108.3,0.6z"
         />
         <text
-          x="115"
-          y="80"
-          className="t20-logo-text"
-          textAnchor="middle"
-          dominantBaseline="middle"
-          fontFamily="sans-serif"
-          fontSize="60"
+          x="125"
+          y="110"
+          fontFamily="Arial, Helvetica, sans-serif"
+          fontSize="90"
           fontWeight="bold"
+          fill="hsl(var(--foreground))"
+          textAnchor="middle"
+          className="t20-logo-text-path"
         >
           T20
         </text>
