@@ -1,8 +1,11 @@
 import { RankingsHero } from '@/components/rankings/rankings-hero';
 import { LineChart, BarChart2, Star } from 'lucide-react';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { BattingStats } from '@/components/stats/batting-stats';
-import { BowlingStats } from '@/components/stats/bowling-stats';
+import dynamic from 'next/dynamic';
+
+const BattingStats = dynamic(() => import('@/components/stats/batting-stats').then(mod => mod.BattingStats), { ssr: false, loading: () => <p>Loading stats...</p> });
+const BowlingStats = dynamic(() => import('@/components/stats/bowling-stats').then(mod => mod.BowlingStats), { ssr: false, loading: () => <p>Loading stats...</p> });
+
 
 export const metadata = {
   title: 'Stats',

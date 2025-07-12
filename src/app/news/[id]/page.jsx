@@ -62,9 +62,11 @@ export default function NewsArticlePage({ params }) {
             <Image
                 src={article.imageUrl}
                 alt={article.title}
-                fill
-                className="object-cover"
+                width={1200}
+                height={675}
+                className="object-cover w-full h-full"
                 data-ai-hint={article.imageHint}
+                priority
             />
         </div>
 

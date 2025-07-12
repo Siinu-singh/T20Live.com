@@ -1,10 +1,7 @@
-'use client';
-
 import Link from 'next/link';
 import { T20Logo } from './t20-logo';
-import { useState, useEffect } from 'react';
-import { Button } from '@/components/ui/button';
-import { ArrowUp, Twitter, Instagram, Facebook, Linkedin } from 'lucide-react';
+import { ScrollToTopButton } from './scroll-to-top-button';
+import { Twitter, Instagram, Facebook, Linkedin } from 'lucide-react';
 
 const siteMapLinks = [
   { label: 'Home', href: '/' },
@@ -21,18 +18,7 @@ const legalLinks = [
 ];
 
 export function Footer() {
-  const [year, setYear] = useState(null);
-
-  useEffect(() => {
-    setYear(new Date().getFullYear());
-  }, []);
-
-  const scrollToTop = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth',
-    });
-  };
+  const year = new Date().getFullYear();
 
   return (
     <footer className="bg-card text-card-foreground border-t">
@@ -40,7 +26,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           
           <div className="col-span-1 space-y-6">
-            <Link href="/" className="flex items-center gap-2">
+            <Link href="/" className="flex items-center gap-2" aria-label="Back to Homepage">
               <T20Logo className="w-10 h-10" />
               <span className="text-xl tracking-tighter font-extrabold bg-gradient-to-br from-yellow-400 to-amber-500 bg-clip-text text-transparent" style={{ textShadow: '0 0 8px rgba(245, 158, 11, 0.7)' }}>T20Live</span>
             </Link>
@@ -48,19 +34,16 @@ export function Footer() {
               Your ultimate destination for real-time T20 cricket scores, updates, and in-depth match analysis.
             </p>
             <div className="flex space-x-4">
-                <Link href="#" className="text-muted-foreground hover:text-primary"><Twitter className="h-5 w-5" /></Link>
-                <Link href="#" className="text-muted-foreground hover:text-primary"><Linkedin className="h-5 w-5" /></Link>
-                <Link href="#" className="text-muted-foreground hover:text-primary"><Instagram className="h-5 w-5" /></Link>
-                <Link href="#" className="text-muted-foreground hover:text-primary"><Facebook className="h-5 w-5" /></Link>
+                <Link href="#" className="text-muted-foreground hover:text-primary" aria-label="Twitter"><Twitter className="h-5 w-5" /></Link>
+                <Link href="#" className="text-muted-foreground hover:text-primary" aria-label="LinkedIn"><Linkedin className="h-5 w-5" /></Link>
+                <Link href="#" className="text-muted-foreground hover:text-primary" aria-label="Instagram"><Instagram className="h-5 w-5" /></Link>
+                <Link href="#" className="text-muted-foreground hover:text-primary" aria-label="Facebook"><Facebook className="h-5 w-5" /></Link>
             </div>
-             <Button variant="outline" className="flex items-center" onClick={scrollToTop}>
-                <ArrowUp className="mr-2 h-4 w-4" />
-                Back to Top
-            </Button>
+             <ScrollToTopButton />
           </div>
 
           <div className="md:col-span-2 relative">
-            <div className="absolute inset-0 w-full h-full z-0 opacity-40 overflow-hidden rounded-lg">
+            <div className="absolute inset-0 w-full h-full z-0 opacity-40 overflow-hidden rounded-lg" aria-hidden="true">
                 <svg
                     className="w-full h-full"
                     viewBox="0 0 960 350"

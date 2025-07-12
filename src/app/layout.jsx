@@ -3,13 +3,7 @@ import { ThemeProvider } from '@/components/theme-provider';
 import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import { Toaster } from '@/components/ui/toaster';
-import { cn } from '@/lib/utils';
-import { Inter } from 'next/font/google';
-
-const inter = Inter({ 
-  subsets: ['latin'],
-  display: 'swap',
-});
+import { GeistSans } from 'geist/font/sans';
 
 export const metadata = {
   title: {
@@ -29,6 +23,7 @@ export const metadata = {
         url: '/og-image.png',
         width: 1200,
         height: 630,
+        alt: 'T20Live Open Graph Image',
       },
     ],
     locale: 'en_US',
@@ -53,7 +48,7 @@ export const viewport = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className={inter.className} suppressHydrationWarning>
+    <html lang="en" className={GeistSans.className} suppressHydrationWarning>
       <head />
       <body className="antialiased">
         <ThemeProvider

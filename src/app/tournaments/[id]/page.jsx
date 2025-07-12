@@ -42,9 +42,11 @@ export default function TournamentDetailPage({ params }) {
             <Image
               src={tournament.logoUrl}
               alt={tournament.name}
-              fill
-              className="object-cover"
+              width={1200}
+              height={675}
+              className="object-cover w-full h-full"
               data-ai-hint={tournament.imageHint}
+              priority
             />
           </div>
         </CardHeader>

@@ -41,9 +41,11 @@ export default function PlayerDetailPage({ params }) {
             <Image
               src={player.imageUrl}
               alt={`Portrait of ${player.name}`}
-              fill
+              width={192}
+              height={192}
               className="object-cover"
               data-ai-hint={player.imageHint}
+              priority
             />
           </div>
           <div className="text-center md:text-left">

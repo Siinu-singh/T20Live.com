@@ -41,7 +41,8 @@ export default function TeamDetailPage({ params }) {
             <Image
               src={team.logoUrl}
               alt={`${team.name} logo`}
-              fill
+              width={128}
+              height={128}
               className="object-cover"
               data-ai-hint={team.logoHint}
             />

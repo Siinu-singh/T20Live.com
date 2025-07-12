@@ -1,5 +1,3 @@
-'use client';
-
 import Image from 'next/image';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -12,7 +10,8 @@ export function PlayerCard({ player }) {
           <Image
             src={player.imageUrl}
             alt={`Portrait of ${player.name}`}
-            fill
+            width={128}
+            height={128}
             className="object-cover transition-transform duration-300"
             data-ai-hint={player.imageHint}
           />
