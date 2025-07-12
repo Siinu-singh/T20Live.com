@@ -38,9 +38,6 @@ export const metadata = {
   alternates: {
     canonical: '/',
   },
-  icons: {
-    icon: '/favicon.ico',
-  },
 };
 
 export const viewport = {
