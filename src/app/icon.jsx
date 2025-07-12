@@ -1,4 +1,4 @@
-import { ImageResponse } from 'next/server';
+import { ImageResponse } from 'next/og';
 import { T20Logo } from '@/components/t20-logo';
 
 export const runtime = 'edge';
