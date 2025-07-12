@@ -1,5 +1,3 @@
-'use client';
-
 import matches from '@/data/live_result.json';
 import { HeroSection } from '@/components/home/hero-section';
 import { RecentNews } from '@/components/home/recent-news';
@@ -38,7 +36,7 @@ export default function Home() {
       category: 'Team News',
       time: '1 hr',
       title: 'Capitals announce new captain for the upcoming season',
-      imageUrl: 'https://images.unsplash.com/photo-1638842492347-796030d7c6a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjcmlja2V0JTIwdGVhbSUyMGh1ZGRsZXxlbnwwfHx8fDE3NTE4ODIzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+      imageUrl: 'https://images.unsplash.com/photo-1638842492347-796030d7c6a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjcmlja2V0JTIwdGVhbSUyMGh1ZGRsZXxlbnwwfHx8fDE3NTE4ODIzNTJ8MA&ixlib.rb-4.1.0&q=80&w=1080',
       imageHint: 'cricket team huddle',
       highlighted: false,
     },
@@ -104,7 +102,7 @@ export default function Home() {
       category: 'Fan Culture',
       time: '12 hr',
       title: 'The most iconic chants from cricket stadiums',
-      imageUrl: 'https://images.unsplash.com/photo-1583072728920-4ed8c72cbc01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjcmlja2V0JTIwZmFucyUyMGNoZWVyaW5nfGVufDB8fHx8MTc1MTg4NTY4MXww&ixlib=rb-4.1.0&q=80&w=1080',
+      imageUrl: 'https://images.unsplash.com/photo-1583072728920-4ed8c72cbc01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjcmlja2V0JTIwZmFucyUyMGNoZWVyaW5nfGVufDB8fHx8MTc1MTg4NTY4MXww&ixlib.rb-4.1.0&q=80&w=1080',
       imageHint: 'cricket fans cheering',
     },
   ];
@@ -180,7 +178,7 @@ export default function Home() {
             category: 'Cricket',
             time: '6 days',
             title: "Fielding masterclass: How to save crucial runs",
-            imageUrl: 'https://images.unsplash.com/photo-1586783895894-4c036d758b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjcmlja2V0JTIwZmllbGRpbmclMjBkaXZlfGVufDB8fHx8MTc1MTg4Njg0NXww&ixlib=rb-4.1.0&q=80&w=1080',
+            imageUrl: 'https://images.unsplash.com/photo-1586783895894-4c036d758b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjcmlja2V0JTIwZmllbGRpbmclMjBkaXZlfGVufDB8fHx8MTc1MTg4Njg0NXww&ixlib.rb-4.1.0&q=80&w=1080',
             imageHint: 'cricket fielding dive'
         }
       ]
