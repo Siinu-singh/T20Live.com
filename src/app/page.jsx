@@ -5,6 +5,7 @@ import { TrendyNews } from '@/components/home/trendy-news';
 import { FeaturedNews } from '@/components/home/featured-news';
 import { LiveMatch } from '@/components/home/live-match';
 import { FaqSection } from '@/components/home/faq-section';
+import { WhyT20Live } from '@/components/home/why-t20-live';
 
 export default function Home() {
   const heroArticle = {
@@ -81,14 +82,14 @@ export default function Home() {
         category: 'Technology',
         time: '5 hr',
         title: "How Hawkeye is changing umpiring decisions in cricket",
-        imageUrl: 'https://images.unsplash.com/photo-1743342398244-c8c5a307d290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0JTIwYmFsbCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzUxODgyMzUxfDA&ixlib=rb-4.1.0&q=80&w=1080',
+        imageUrl: 'https://images.unsplash.com/photo-1743342398244-c8c5a307d290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0JTIwYmFsbCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzUxODgyMzUxfDA&ixlib.rb-4.1.0&q=80&w=1080',
         imageHint: 'cricket ball technology'
     },
     {
         category: 'History',
         time: '8 hr',
         title: "Revisiting the first-ever T20 international match",
-        imageUrl: 'https://images.unsplash.com/photo-1685541001104-91fe7ae1d8e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwY3JpY2tldCUyMG1hdGNofGVufDB8fHx8MTc1MTg4MjM1Mnww&ixlib=rb-4.1.0&q=80&w=1080',
+        imageUrl: 'https://images.unsplash.com/photo-1685541001104-91fe7ae1d8e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwY3JpY2tldCUyMG1hdGNofGVufDB8fHx8MTc1MTg4MjM1Mnww&ixlib.rb-4.1.0&q=80&w=1080',
         imageHint: 'vintage cricket match'
     },
     {
@@ -121,14 +122,14 @@ export default function Home() {
             category: 'Records',
             time: '4 hr',
             title: "Breaking down the fastest centuries in T20 history",
-            imageUrl: 'https://images.unsplash.com/photo-1654267837327-203c8bfb5f25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcmlja2V0JTIwc2NvcmVib2FyZHxlbnwwfHx8fDE3NTE4ODIzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+            imageUrl: 'https://images.unsplash.com/photo-1654267837327-203c8bfb5f25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcmlja2V0JTIwc2NvcmVib2FyZHxlbnwwfHx8fDE3NTE4ODIzNTJ8MA&ixlib.rb-4.1.0&q=80&w=1080',
             imageHint: 'cricket scoreboard'
         },
         {
             category: 'Fan Zone',
             time: '6 hr',
             title: "Top 5 most passionate cricket fan bases in the world",
-            imageUrl: 'https://images.unsplash.com/photo-1656678636406-60770fb73071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjcmlja2V0JTIwZmFucyUyMGNyb3dkfGVufDB8fHx8MTc1MTg4MjM1MXww&ixlib=rb-4.1.0&q=80&w=1080',
+            imageUrl: 'https://images.unsplash.com/photo-1656678636406-60770fb73071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjcmlja2V0JTIwZmFucyUyMGNyb3dkfGVufDB8fHx8MTc1MTg4MjM1MXww&ixlib.rb-4.1.0&q=80&w=1080',
             imageHint: 'cricket fans crowd'
         }
       ]
@@ -153,7 +154,7 @@ export default function Home() {
             category: 'History',
             time: '3 days',
             title: "Greatest comebacks in T20 World Cup history",
-            imageUrl: 'https://images.unsplash.com/photo-1580831800257-f83135932664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmlja2V0JTIwdHJvcGh5JTIwY2VsZWJyYXRpb258ZW58MHx8fHwxNzUxODg2Nzg2fDA&ixlib=rb-4.1.0&q=80&w=1080',
+            imageUrl: 'https://images.unsplash.com/photo-1580831800257-f83135932664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmlja2V0JTIwdHJvcGh5JTIwY2VsZWJyYXRpb258ZW58MHx8fHwxNzUxODg2Nzg2fDA&ixlib.rb-4.1.0&q=80&w=1080',
             imageHint: 'cricket trophy celebration'
         }
       ]
@@ -163,7 +164,7 @@ export default function Home() {
         category: 'Analysis',
         time: '4 days',
         title: "The art of death bowling: a game changer",
-        imageUrl: 'https://images.unsplash.com/photo-1709233955537-c2f14fc975c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JpY2tldCUyMGJvd2xlciUyMGFjdGlvbnxlbnwwfHx8fDE3NTE4ODY4NDV8MA&ixlib=rb-4.1.0&q=80&w=1080',
+        imageUrl: 'https://images.unsplash.com/photo-1709233955537-c2f14fc975c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JpY2tldCUyMGJvd2xlciUyMGFjdGlvbnxlbnwwfHx8fDE3NTE4ODY4NDV8MA&ixlib.rb-4.1.0&q=80&w=1080',
         imageHint: 'cricket bowler action'
       },
       sideArticles: [
@@ -171,7 +172,7 @@ export default function Home() {
             category: 'Interview',
             time: '5 days',
             title: "A coach's perspective on building a winning team",
-            imageUrl: 'https://images.unsplash.com/photo-1685541000847-f764510e2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0JTIwY29hY2glMjB0YWxraW5nfGVufDB8fHx8MTc1MTg4Njg0NXww&ixlib=rb-4.1.0&q=80&w=1080',
+            imageUrl: 'https://images.unsplash.com/photo-1685541000847-f764510e2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0JTIwY29hY2glMjB0YWxraW5nfGVufDB8fHx8MTc1MTg4Njg0NXww&ixlib.rb-4.1.0&q=80&w=1080',
             imageHint: 'cricket coach talking'
         },
         {
@@ -189,19 +190,21 @@ export default function Home() {
   
   return (
     <div className="bg-background">
-      <main className="container mx-auto px-4 py-8">
-        <section className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
+      <main className="container mx-auto px-4 py-8 space-y-12">
+        <section className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <HeroSection article={heroArticle} />
           <RecentNews recentNews={recentNews} topStories={topStories} />
         </section>
 
         <TrendyNews news={trendyNews} />
 
-        <section className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
+        <section className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <FeaturedNews articles={allFeaturedNews} />
           <LiveMatch match={liveMatch} />
         </section>
 
+        <WhyT20Live />
+        
         <FaqSection />
       </main>
     </div>

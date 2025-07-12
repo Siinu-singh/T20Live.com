@@ -13,6 +13,7 @@ const siteMapLinks = [
 const legalLinks = [
     { label: 'About Us', href: '/about' },
     { label: 'Contact Us', href: '/contact' },
+    { label: 'Privacy Policy', href: '/privacy' },
     { label: 'Terms of Service', href: '/terms' },
     { label: 'Rankings', href: '/rankings' },
 ];
